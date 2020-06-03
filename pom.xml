@@ -19,7 +19,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>it.infn.ba.xdc</groupId>
   <artifactId>rucio-client-xdc</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>rucio-client-xdc</name>
   <description>A Java API client for Rucio</description>
 
@@ -35,7 +35,7 @@
         <url>https://github.com/indigo-dc/rucio-client</url>
         <connection>scm:git:https://github.com/indigo-dc/rucio-client.git</connection>
         <developerConnection>scm:git:https://github.com/indigo-dc/rucio-client.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>v1.0.0</tag>
     </scm>
 
     <organization>
