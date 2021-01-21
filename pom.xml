@@ -72,7 +72,7 @@
     <properties>
         <kotlin.version>1.3.72</kotlin.version>
         <feign.version>8.18.0</feign.version>
-        <jackson-databind.version>2.8.11.3</jackson-databind.version>
+        <jackson-databind.version>2.9.10.7</jackson-databind.version>
         <jackson-module-kotlin.version>2.8.11.1</jackson-module-kotlin.version>
         <okhttp.version>3.14.8</okhttp.version>
     </properties>
